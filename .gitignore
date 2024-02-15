@@ -1,1 +1,6 @@
 venv
+IPOPotral/__pycache__/
+IPOPotral/migrations/__pycache__/
+Home/migrations/__pycache__/
+Home/__pycache__/
+db.sqlite3
